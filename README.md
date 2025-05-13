@@ -4,7 +4,7 @@
 🌱 I'm a beginner learning web development & Python  
 🚀 I'm preparing to join my first hackathon!  
 💡 I’m interested in building websites, apps, and tools to make life easier  
-📫 Connect with me: [Your LinkedIn or email here]
+📫 Connect with me: basilchackobaby2005@gmail.com
 
 🛠️ Tech I’m learning:
 - HTML, CSS, JavaScript
